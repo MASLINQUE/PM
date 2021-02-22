@@ -1,8 +1,8 @@
-# PM
+# TEST
 Тестовое задание для ООО Порто-Механика
 Задание: Сделать проект по классификации наличия святого Георгия на изображении. В папке есть два файла со списком картинок: Георгиев и не Георгиев. Нужно сделать jupyter notebook, в котором будет обучаться модель классификации Георгиев и не Георгиев. Скачать файлы можно при помощи wget: `wget --random-wait -i filename.txt`. Ссылка на папку для копирования: https://drive.google.com/drive/folders/1hXAjwpBj6shfWd1taWMFpSqelFCzi6KJ?usp=sharing .
 
-Проект находится в jypiter notebook BinVer.ipynb
+Проект находится в Jupyter Notebook файле BinVer.ipynb
 
 Инструкция к запуску проекта:
 1. Рекомендую использовать Google Colab
